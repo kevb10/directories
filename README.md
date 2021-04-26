@@ -9,15 +9,15 @@ A common method of organizing files on a computer is to store them in hierarchic
 
 photos/
 
-birthdays/
+  birthdays/
 
-joe/
+    joe/
 
-mary/
+    mary/
 
-vacations/
+  vacations/
 
-weddings/
+  weddings/
 
 ```
 
