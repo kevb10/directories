@@ -51,7 +51,7 @@ const listDirectories = () => {
  */
 const deleteDirectory = (path) => {
   if (!path) {
-    throw new Error('Please specify directory name!');
+    throw new Error('Please specify directory path!');
   }
   let node = root;
   let parent;
